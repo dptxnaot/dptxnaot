@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dptxnaot
-- 👀 I’m interested in swimming,playing chess,etc   
+- 👋 Hi, I’m @dpt._.tonnn
+- 👀 I’m interested in swimming, running, playing badminton, exploring new skills,etc   
 - 🌱 I’m currently learning data science    
 - 💞️ I’m looking to collaborate on being data analyst
 - 📫 You can reach me on ins:@dpt._.tonnn or my email:daophutoan2k6@gmail.com
