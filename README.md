@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-📚 **Relevant Coursework:** Data Structures and Algorithms, Statistics, Database Management, Database System Programming, Data Analysis, Data Warehouse, Artificial Intelligence, OOP
+📚 **Relevant Coursework:** `Data Structures & Algorithms` · `Data Warehouse` · `Data Analysis` · `Statistics` · `AI` · `Numerical Methods`
 
 <br><br>
 
@@ -56,7 +56,7 @@
   <a href="https://www.instagram.com/dpt._.tonnn/">
     <img src="https://img.shields.io/badge/Instagram-dpt._.tonnn-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:daophutoan2k6@gmail.com">
-    <img src="https://img.shields.io/badge/Email-daophutoan2k6@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:phutoan.dao@gmail.com">
+    <img src="https://img.shields.io/badge/Email-phutoan.dao@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
