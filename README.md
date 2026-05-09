@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Xin chào, mình là **Ton Ton** `@dptxnaot` 🌸
+# Xin chào, mình là **Ton Ton** `@dptxnaot`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97B85&center=true&vCenter=true&width=500&lines=a+little+dream+of+me+🌙;Data+Science+Learner+📊;Future+Data+Analyst+🔍;Badminton+%7C+Swimming+%7C+Running+🏸" alt="Typing SVG" />
 
